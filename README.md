@@ -1,7 +1,7 @@
 # Jan Kornienko
 
 ## Languages :brain:
-- Czech - C2 :czech:
+- Czech - C2
 - English - C1
 - German - A1
 
