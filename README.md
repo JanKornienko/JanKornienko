@@ -1,16 +1,21 @@
-### Hi there 👋
+# Jan Kornienko
 
-<!--
-**JanKornienko/JanKornienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages :brain:
+- Czech - C2 :czech:
+- English - C1
+- German - A1
 
-Here are some ideas to get you started:
+## Programming & IT :computer:
+- JavaScript
+- C#
+- HTML
+- CSS
+- Git
+- Bash
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificates :book:
+- IT Cisco Essentials
+- Microsoft Office Specialist: Microsoft Word 2016
+- Microsoft Office Specialist: Microsoft Excel 2016
+- Microsoft Office Specialist: Microsoft PowerPoint 2016
