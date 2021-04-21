@@ -1,9 +1,9 @@
 # Jan Kornienko
 
 ## Languages :brain:
-- Czech - C2
-- English - C1
-- German - A1
+- :czech_republic: Czech - C2
+- :us: English - C1
+- :de: German - A1
 
 ## Programming & IT :computer:
 - JavaScript
@@ -19,3 +19,11 @@
 - Microsoft Office Specialist: Microsoft Word 2016
 - Microsoft Office Specialist: Microsoft Excel 2016
 - Microsoft Office Specialist: Microsoft PowerPoint 2016
+
+## Contact :phone:
+- :envelope: Mail: [kor.jan@outlook.com](mailto:kor.jan@outlook.com)
+- :octocat: Github: [@JanKornienko](https://github.com/JanKornienko)
+- :earth_africa: LinkedIn: [Jan Kornienko](https://www.linkedin.com/in/jan-kornienko/)
+- :bird: Twitter: [@JanKornienko](https://twitter.com/JanKornienko)
+- :framed_picture: Instagram: [@jankornienko](https://www.instagram.com/jankornienko/)
+- :trollface: Reddit: [@JanKornienko](https://www.reddit.com/user/JanKornienko)
