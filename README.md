@@ -21,7 +21,7 @@
 - Microsoft Office Specialist: Microsoft PowerPoint 2016
 
 ## Contact :phone:
-- :envelope: Mail: [kor.jan@outlook.com](mailto:kor.jan@outlook.com)
+- :envelope: Mail: [kornienko.jan@gmail.com](mailto:kornienko.jan@gmail.com)
 - :octocat: Github: [@JanKornienko](https://github.com/JanKornienko)
 - :earth_africa: LinkedIn: [Jan Kornienko](https://www.linkedin.com/in/jan-kornienko/)
 - :bird: Twitter: [@JanKornienko](https://twitter.com/JanKornienko)
