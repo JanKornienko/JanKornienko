@@ -9,7 +9,8 @@
 - JavaScript
 - C#
 - HTML
-- CSS
+- CSS & CSS Frameworks
+- Vue.js
 - Git
 - Bash
 - Linux
