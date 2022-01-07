@@ -7,10 +7,12 @@
 
 ## Programming & IT :computer:
 - JavaScript
+- PHP
 - C#
 - HTML
 - CSS & CSS Frameworks
 - Vue.js
+- Nette
 - Git
 - Bash
 - Linux
